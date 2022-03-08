@@ -47,4 +47,4 @@ For Screenshots click
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br> 
-Contribution Credits: [Saptarshi Samanta](https://github.com/Saptarshisamata)
+Contributor: [Saptarshi Samanta](https://github.com/Saptarshisamata)
