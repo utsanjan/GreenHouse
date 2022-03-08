@@ -9,10 +9,9 @@
 </h1>
 
 
-<p align="center">A minimal Social Blog App coded with Java.<br>
-I used Android Studio as IDE for making this application,<br>
-Firebase is used as the key server and<br>
-for the data storage of the user posts.</p>
+<p align="center">GreenHouse Blog, a social blog<br>
+  Android application made with Java for<br>
+  posting daily college updates and gossips</p>
  
 ## Features
 
