@@ -24,7 +24,7 @@
 * Profiles can be customised whenever needed<br>
 * Password reset can also be performed in case you forget the password<br>
 
-> ### Notes:
+> ### Points to be noted:
 > Feel free to use this application,
 > <br>and do report me the bugs if you find one.
 > <br>Incase anyone wants to use the source code
