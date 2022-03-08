@@ -19,10 +19,10 @@
 [![](https://img.shields.io/github/license/utsanjan/GreenHouse?logoColor=red&style=plastic)](https://github.com/utsanjan/GreenHouse/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/GreenHouse?color=light%20green&style=plastic)](https://github.com/utsanjan/GreenHouse)‎ ‎ <br>
 * Here we can post pictures in the blog<br>
-* Used Otp verification during Signup process<br>
 * Users can like and comment on the posts<br>
+* Password can be reset in case you forgot it<br>
+* Used OTP verification during Signup process<br>
 * Profiles can be customised whenever needed<br>
-* Password reset can also be performed in case you forget the password<br>
 
 > ### Points to be noted:
 > Feel free to use this application,
