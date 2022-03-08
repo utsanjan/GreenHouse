@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@drawable/ui_grad" android:layout_width="match_parent" android:layout_height="220dp">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+        <de.hdodenhof.circleimageview.CircleImageView android:layout_gravity="center_vertical" android:id="@+id/nav_profile_image" android:layout_width="150dp" android:layout_height="150dp" android:src="@drawable/profile" android:layout_marginStart="20dp" app:civ_circle_background_color="#0000e186"/>
+        <TextView android:textSize="10dp" android:textStyle="bold" android:textColor="@color/common_google_signin_btn_text_light" android:layout_gravity="center_vertical" android:id="@+id/nav_user_full_name" android:layout_width="145dp" android:layout_height="wrap_content" android:text="Username" android:fontFamily="sans-serif-condensed-light" android:layout_marginStart="20dp"/>
+    </LinearLayout>
+</RelativeLayout>

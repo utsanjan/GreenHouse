@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/inputs" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp">
+    <de.hdodenhof.circleimageview.CircleImageView android:id="@+id/all_user_profile_image" android:layout_width="85dp" android:layout_height="85dp" android:layout_marginLeft="20dp" android:layout_marginTop="20dp" android:layout_marginBottom="20dp" android:src="@drawable/profile"/>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp">
+        <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="#000000" android:gravity="start" android:layout_gravity="center_vertical" android:id="@+id/all_users_profile_full_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="user full name" android:textAlignment="textStart"/>
+        <TextView android:textSize="16sp" android:textColor="#7d7d7d" android:gravity="start" android:layout_gravity="center_vertical" android:id="@+id/all_users_status" android:layout_width="200dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="status" android:textAlignment="textStart"/>
+    </LinearLayout>
+</LinearLayout>

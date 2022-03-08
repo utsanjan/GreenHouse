@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/my_posts_bar_layout" layout="@layout/app_bar_layout"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/all_post_list" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_below="@+id/my_posts_bar_layout"/>
+</RelativeLayout>
