@@ -1,0 +1,577 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.blog01.greenhouse"
+4    platformBuildVersionCode="25"
+5    platformBuildVersionName="7.1.0"
+6    android:compileSdkVersion="29"
+7    android:compileSdkVersionCodename="10"
+8    android:versionCode="1"
+9    android:versionName="1.0" >
+10
+11    <uses-sdk
+11-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
+12        android:minSdkVersion="17"
+12-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:15-41
+13        android:targetSdkVersion="25" />
+13-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:42-71
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:5-66
+15-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:22-64
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-79
+16-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:5-80
+17-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:22-78
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:5-78
+18-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:22-76
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:5-67
+19-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:22-65
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:5-81
+20-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:22-79
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+21-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:5-109
+21-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:22-107
+22    <uses-permission android:name="android.permission.READ_LOGS" />
+22-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:98:5-67
+22-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:98:22-65
+23    <uses-permission android:name="android.permission.FLASHLIGHT" />
+23-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:99:5-68
+23-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:99:22-66
+24    <uses-permission android:name="net.dinglisch.android.tasker.PERMISSION_RUN_TASKS" />
+24-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:100:5-88
+24-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:100:22-86
+25    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+25-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:101:5-73
+25-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:101:22-71
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:102:5-65
+26-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:102:22-63
+27    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+27-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:103:5-77
+27-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:103:22-75
+28    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+28-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:104:5-75
+28-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:104:22-73
+29    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+29-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:105:5-94
+29-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:105:22-92
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:5-78
+30-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:22-76
+31    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+31-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:107:5-73
+31-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:107:22-71
+32    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+32-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:108:5-75
+32-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:108:22-73
+33    <uses-permission android:name="android.permission.CAMERA" />
+33-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:109:5-64
+33-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:109:22-62
+34    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+34-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-79
+34-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:22-77
+35    <uses-permission android:name="android.permission.BLUETOOTH" />
+35-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:111:5-67
+35-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:111:22-65
+36    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+36-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:112:5-72
+36-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:112:22-70
+37    <uses-permission android:name="android.permission.READ_SETTINGS" />
+37-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:113:5-71
+37-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:113:22-69
+38
+39    <application
+39-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:5-97:19
+40        android:allowBackup="true"
+40-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:163-189
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:257-325
+42        android:debuggable="true"
+42-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:112-137
+43        android:icon="@ac/__launcher_icon"
+43-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:77-111
+44        android:label="GreenHouse"
+44-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:50-76
+45        android:roundIcon="@ac/__launcher_icon"
+45-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:217-256
+46        android:supportsRtl="true"
+46-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:190-216
+47        android:testOnly="true"
+47-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:138-162
+48        android:theme="@style/AppTheme" >
+48-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:18-49
+49        <activity android:name="com.example.instagram.UsersPostActivity" />
+49-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:9-75
+49-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:19-73
+50        <activity
+50-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:9-137
+51            android:name="com.example.instagram.MyPostsActivity"
+51-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:19-71
+52            android:parentActivityName="com.example.instagram.MainActivity" />
+52-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:72-135
+53        <activity android:name="com.example.instagram.ChatActivity" />
+53-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:9-70
+53-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:19-68
+54        <activity android:name="com.example.instagram.FriendsActivity" />
+54-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:9-73
+54-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:19-71
+55        <activity android:name="com.example.instagram.PersonProfileActivity" />
+55-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:9-79
+55-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:19-77
+56        <activity
+56-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:9-142
+57            android:name="com.example.instagram.ResetPassordActivity"
+57-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:19-76
+58            android:parentActivityName="com.example.instagram.MainActivity" />
+58-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:77-140
+59        <activity android:name="com.example.instagram.CommentsActivity" />
+59-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:9-74
+59-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:19-72
+60        <activity
+60-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:9-141
+61            android:name="com.example.instagram.FindFriendsActivity"
+61-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:19-75
+62            android:parentActivityName="com.example.instagram.MainActivity" />
+62-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:76-139
+63        <activity android:name="com.example.instagram.ProfileActivity" />
+63-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:9-73
+63-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:19-71
+64        <activity
+64-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:9-138
+65            android:name="com.example.instagram.SettingsActivity"
+65-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:19-72
+66            android:parentActivityName="com.example.instagram.MainActivity" />
+66-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:73-136
+67        <activity android:name="com.example.instagram.ClickPostActivity" />
+67-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:9-75
+67-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:19-73
+68        <activity android:name="com.example.instagram.MainActivity" />
+68-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:9-70
+68-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:19-68
+69        <activity android:name="com.example.instagram.RegisterActivity" />
+69-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:9-74
+69-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:19-72
+70        <activity
+70-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:9-30:20
+71            android:name="com.example.instagram.LoginActivity"
+71-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:81-131
+72            android:icon="@ac/__launcher_icon"
+72-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:46-80
+73            android:label="GreenHouse"
+73-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:19-45
+74            android:roundIcon="@ac/__launcher_icon" >
+74-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:132-171
+75            <intent-filter>
+75-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:26:13-29:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:17-68
+76-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:25-66
+77
+78                <category android:name="android.intent.category.LAUNCHER" />
+78-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:17-76
+78-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:27-74
+79            </intent-filter>
+80        </activity>
+81        <activity android:name="com.example.instagram.SetupActivity" />
+81-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:9-71
+81-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:19-69
+82        <activity
+82-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:9-128
+83            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+83-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:63-126
+84            android:theme="@style/Base.Theme.AppCompat" />
+84-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:19-62
+85        <activity android:name="com.example.instagram.PostActivity" />
+85-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:9-70
+85-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:19-68
+86        <activity
+86-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:9-333
+87            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+87-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:79-151
+88            android:excludeFromRecents="true"
+88-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:266-299
+89            android:exported="true"
+89-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:242-265
+90            android:launchMode="singleTask"
+90-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:300-331
+91            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+91-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:152-241
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:19-78
+93
+94        <service
+94-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:9-43:19
+95            android:name="com.google.firebase.components.ComponentDiscoveryService"
+95-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:18-89
+96            android:directBootAware="true"
+96-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:115-145
+97            android:exported="false" >
+97-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:90-114
+98            <meta-data
+98-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:13-184
+99                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+99-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:24-116
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:117-182
+101            <meta-data
+101-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:13-184
+102                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+102-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:24-116
+103                android:value="com.google.firebase.components.ComponentRegistrar" />
+103-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:117-182
+104            <meta-data
+104-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:13-182
+105                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+105-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:24-114
+106                android:value="com.google.firebase.components.ComponentRegistrar" />
+106-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:115-180
+107            <meta-data
+107-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:13-190
+108                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+108-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:24-122
+109                android:value="com.google.firebase.components.ComponentRegistrar" />
+109-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:123-188
+110            <meta-data
+110-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:13-214
+111                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+111-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:24-146
+112                android:value="com.google.firebase.components.ComponentRegistrar" />
+112-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:147-212
+113            <meta-data
+113-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:13-171
+114                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+114-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:24-103
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:104-169
+116            <meta-data
+116-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:13-202
+117                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+117-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:24-134
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:135-200
+119        </service>
+120
+121        <activity
+121-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:9-220
+122            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+122-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:79-159
+123            android:excludeFromRecents="true"
+123-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:185-218
+124            android:exported="false"
+124-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:160-184
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:19-78
+126
+127        <service
+127-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:9-215
+128            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+128-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:18-94
+129            android:exported="true"
+129-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:190-213
+130            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+130-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:95-189
+131
+132        <meta-data
+132-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:9-121
+133            android:name="com.google.android.gms.version"
+133-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:20-65
+134            android:value="@integer/google_play_services_version" />
+134-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:66-119
+135
+136        <receiver
+136-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:9-51:20
+137            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+137-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:19-84
+138            android:exported="true"
+138-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:146-169
+139            android:permission="com.google.android.c2dm.permission.SEND" >
+139-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:85-145
+140            <intent-filter>
+140-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:13-50:29
+141                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+141-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:17-80
+141-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:25-78
+142            </intent-filter>
+143        </receiver>
+144
+145        <activity
+145-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:9-172
+146            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+146-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:79-145
+147            android:exported="false"
+147-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:146-170
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:19-78
+149
+150        <provider
+150-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:9-199
+151            android:name="com.google.firebase.provider.FirebaseInitProvider"
+151-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:19-83
+152            android:authorities="com.blog01.greenhouse.firebaseinitprovider"
+152-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:109-173
+153            android:exported="false"
+153-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:84-108
+154            android:initOrder="100" />
+154-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:174-197
+155
+156        <receiver
+156-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:9-141
+157            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+157-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:19-91
+158            android:enabled="true"
+158-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:92-114
+159            android:exported="false" />
+159-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:115-139
+160
+161        <service
+161-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:9-139
+162            android:name="com.google.android.gms.measurement.AppMeasurementService"
+162-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:18-89
+163            android:enabled="true"
+163-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:90-112
+164            android:exported="false" />
+164-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:113-137
+165        <service
+165-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:9-199
+166            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+166-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:18-92
+167            android:enabled="true"
+167-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:150-172
+168            android:exported="false"
+168-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:173-197
+169            android:permission="android.permission.BIND_JOB_SERVICE" />
+169-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:93-149
+170        <service
+170-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:9-59:19
+171            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+171-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:18-108
+172            android:exported="false" >
+172-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:109-133
+173            <meta-data
+173-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:13-123
+174                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+174-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:24-101
+175                android:value="cct" />
+175-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:102-121
+176        </service>
+177        <service
+177-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:9-206
+178            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+178-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:18-122
+179            android:exported="false"
+179-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:180-204
+180            android:permission="android.permission.BIND_JOB_SERVICE" />
+180-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:123-179
+181
+182        <receiver
+182-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:9-165
+183            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+183-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:19-138
+184            android:exported="false" />
+184-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:139-163
+185
+186        <provider
+186-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:9-202
+187            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+187-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:19-85
+188            android:authorities="com.blog01.greenhouse.lifecycle-process"
+188-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:139-200
+189            android:exported="false"
+189-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:86-110
+190            android:multiprocess="true" />
+190-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:111-138
+191
+192        <meta-data
+192-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:9-91
+193            android:name="com.applisto.appcloner.name"
+193-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:20-62
+194            android:value="GreenHouse" />
+194-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:63-89
+195        <meta-data
+195-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:9-92
+196            android:name="com.applisto.appcloner.originalName"
+196-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:20-70
+197            android:value="vag" />
+197-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:71-90
+198        <meta-data
+198-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:9-124
+199            android:name="com.applisto.appcloner.originalPackageName"
+199-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:20-77
+200            android:value="Y29tLmV4YW1wbGUuaW5zdGFncmFt" />
+200-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:78-122
+201        <meta-data
+201-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:9-101
+202            android:name="com.applisto.appcloner.cloneSource"
+202-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:20-69
+203            android:value="installed_app" />
+203-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:70-99
+204        <meta-data
+204-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:9-104
+205            android:name="com.applisto.appcloner.cloneTimestamp"
+205-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:20-72
+206            android:value="1592075285806" />
+206-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:73-102
+207        <meta-data
+207-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:9-109
+208            android:name="com.applisto.appcloner.cloneBuildSerial"
+208-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:20-74
+209            android:value="IZ6DU875GYYDV8V4" />
+209-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:75-107
+210        <meta-data
+210-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:9-103
+211            android:name="com.applisto.appcloner.cloneBuildManufacturer"
+211-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:20-80
+212            android:value="vivo" />
+212-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:81-101
+213        <meta-data
+213-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:9-101
+214            android:name="com.applisto.appcloner.cloneBuildModel"
+214-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:20-73
+215            android:value="vivo 1904" />
+215-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:74-99
+216        <meta-data
+216-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:9-100
+217            android:name="com.applisto.appcloner.clonePremiumVersion"
+217-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:20-77
+218            android:value="true" />
+218-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:78-98
+219        <meta-data
+219-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:9-97
+220            android:name="com.applisto.appcloner.forceDeviceLock"
+220-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:20-73
+221            android:value="false" />
+221-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:74-95
+222        <meta-data
+222-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:9-102
+223            android:name="com.applisto.appcloner.runtimeModdingOptions"
+223-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:20-79
+224            android:value="true" />
+224-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:80-100
+225        <meta-data
+225-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:9-99
+226            android:name="com.applisto.appcloner.bundleOriginalApp"
+226-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:20-75
+227            android:value="false" />
+227-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:76-97
+228        <meta-data
+228-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:9-89
+229            android:name="com.applisto.appcloner.versionCode"
+229-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:20-69
+230            android:value="1" />
+230-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:70-87
+231        <meta-data
+231-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:9-91
+232            android:name="com.applisto.appcloner.versionName"
+232-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:20-69
+233            android:value="1.0" />
+233-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:70-89
+234        <meta-data
+234-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:9-105
+235            android:name="com.applisto.appcloner.appClonerVersionCode"
+235-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:20-78
+236            android:value="19111210" />
+236-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:79-103
+237        <meta-data
+237-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:9-103
+238            android:name="com.applisto.appcloner.appClonerVersionName"
+238-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:20-78
+239            android:value="1.5.32" />
+239-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:79-101
+240        <meta-data
+240-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:9-112
+241            android:name="com.applisto.appcloner.appClonerClassesVersionCode"
+241-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:20-85
+242            android:value="20190829" />
+242-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:86-110
+243        <meta-data
+243-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:9-1183
+244            android:name="com.applisto.appcloner.originalSignatures"
+244-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:20-76
+245            android:value="AQAAABwAAABhAG4AZAByAG8AaQBkAC4AYwBvAG4AdABlAG4AdAAuAHAAbQAuAFMAaQBnAG4AYQB0AHUAcgBlAAAAAADoAgAAMIIC5DCCAcwCAQEwDQYJKoZIhvcNAQEFBQAwNzEWMBQGA1UEAwwNQW5kcm9pZCBEZWJ1ZzEQMA4GA1UECgwHQW5kcm9pZDELMAkGA1UEBhMCVVMwIBcNMjAwNjA1MDM0MzE1WhgPMjA1MDA1MjkwMzQzMTVaMDcxFjAUBgNVBAMMDUFuZHJvaWQgRGVidWcxEDAOBgNVBAoMB0FuZHJvaWQxCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAizc/8WbjC4yXTODejWmJbytV2SKNl7HdJEPQkWlglTw0JGpTc2blCsuKfzw6AoBuLqBxVyuIvOma5Ol/4jA6pp5L23kG5FTMvDjO9Co6qJBZrY+iWzaEbDYgY0zVQfOeo17vPnX3sHPUxQQy3VUVwfymvwirJObqKfjAUcEdc0FzWonE2ZpM+ZfdMiXnaCrrH2onyADg1HljCO40DEiS/kVCvruj47cV47TmpJ53Kd6dAKWMG2GQq4V0pvkr1Ek4dJjcOx+Qy7Bi69pzC7p+vrDrPDvxtC9UXEJeMSBD+zV/7Xc05/WnlcAwfh5fp4kJEdfADNE3Qh3P4NVfy82GPwIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQBEFMkuKh5XJ44hhOq8zs3YHWUMsEhm1tx1n1qfA1dGliYiPgJ/rJeKRYydgGuatW74Q/FPxY63xgH3WNaOtkhD+PHFIuI5SUX/aY3jBlS+4FmrHlsCsMgE6OA+6SczljB5H9H3TBWdXrrIKEHQB8lTywHk5aaiWxAKh3Paf8Mnvdyau/zdc68vBxWh9D3HIk2hH8Sjnwv+ECFw5IMvQV2G+apXHWa8B9M+GJjVmv/ZlIpx08gMf1kDHz/+e1VtsENI3pdfbA3cnAUBpPZGttdPBuy9oMMV7qya5utOa5E8RnnplL12CYWkrQf97kyW3AiJ8yto2R8ReEhTK+B+RUcr" />
+245-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:77-1181
+246        <meta-data
+246-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:9-89
+247            android:name="com.android.vending.derived.apk.id"
+247-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:20-69
+248            android:value="1" />
+248-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:70-87
+249
+250        <provider
+250-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:9-228
+251            android:name="com.applisto.appcloner.classes.DefaultProvider"
+251-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:19-80
+252            android:authorities="com.blog01.greenhouse.com.applisto.appcloner.classes.DefaultProvider"
+252-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:105-195
+253            android:exported="true"
+253-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:81-104
+254            android:initOrder="2147483647" />
+254-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:196-226
+255
+256        <service
+256-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:9-103
+257            android:name="com.applisto.appcloner.service.RemoteService"
+257-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:18-77
+258            android:exported="true" />
+258-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:78-101
+259
+260        <receiver
+260-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:9-122
+261            android:name="com.applisto.appcloner.classes.DefaultProvider.DefaultReceiver"
+261-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:19-96
+262            android:exported="true" />
+262-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:97-120
+263
+264        <activity
+264-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:9-117
+265            android:name="com.applisto.appcloner.classes.DefaultProvider.MyActivity"
+265-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:19-91
+266            android:exported="true" />
+266-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:92-115
+267
+268        <receiver android:name="com.applisto.appcloner.classes.FakeCamera.FakeCameraReceiver" >
+268-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:86:9-92:20
+268-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:86:19-94
+269            <intent-filter>
+269-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:87:13-91:29
+270                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_SELECT_CAMERA_PICTURE" />
+270-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:88:17-105
+270-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:88:25-103
+271                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_CLOCKWISE" />
+271-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:89:17-100
+271-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:89:25-98
+272                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_ANTI_CLOCKWISE" />
+272-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:90:17-105
+272-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:90:25-103
+273            </intent-filter>
+274        </receiver>
+275        <receiver android:name="com.applisto.appcloner.classes.DisableClipboardAccess.ClearClipboardReceiver" />
+275-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:93:9-112
+275-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:93:19-110
+276
+277        <activity
+277-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:9-167
+278            android:name="com.applisto.appcloner.classes.FakeCamera.FakeCameraActivity"
+278-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:90-165
+279            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+279-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:19-89
+280
+281        <meta-data
+281-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:9-99
+282            android:name="com.applisto.appcloner.hideFromClonedApps"
+282-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:20-76
+283            android:value="true" />
+283-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:77-97
+284        <meta-data
+284-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:9-94
+285            android:name="com.applisto.appcloner.ignoreUpdates"
+285-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:20-71
+286            android:value="true" />
+286-->/Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:72-92
+287    </application>
+288
+289</manifest>
