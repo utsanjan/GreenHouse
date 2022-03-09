@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/GreenHouse">
-  <img src="https://1.bp.blogspot.com/-t3WFjSryxUc/YD8_JGwEfcI/AAAAAAAAbZc/T9ueL13SzGYar40mb-aie3lJ74Vjn0NYACLcBGAsYHQ/s200/__launcher_icon.png"
+  <img width="230" src="https://blogger.googleusercontent.com/img/a/AVvXsEirRXEqdJ4-p00TCz5RdH444W5dm3sZyFDRUM19bg5QGxtOcJHjKpyzc3xnZbBrPkxNMm-_7s3mtDYXoWq7AYo2y9GXwK_a5ayZ2BnA1DVBugrkCe7C4xM_rGnAo_fWClG_5A3FO51gBHQX1n2wUhJTUB6x9jvyITaB6pLZOQ552E--qhNNxDivDB1j=s16000"
   alt="GreenHouse">
   </a><br>
   GreenHouse Blog
