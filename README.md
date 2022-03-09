@@ -1,14 +1,14 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/utsanjan/GreenHouse">
-  <img width="230" src="https://blogger.googleusercontent.com/img/a/AVvXsEirRXEqdJ4-p00TCz5RdH444W5dm3sZyFDRUM19bg5QGxtOcJHjKpyzc3xnZbBrPkxNMm-_7s3mtDYXoWq7AYo2y9GXwK_a5ayZ2BnA1DVBugrkCe7C4xM_rGnAo_fWClG_5A3FO51gBHQX1n2wUhJTUB6x9jvyITaB6pLZOQ552E--qhNNxDivDB1j=s16000"
+  <img width="200" src="https://blogger.googleusercontent.com/img/a/AVvXsEirRXEqdJ4-p00TCz5RdH444W5dm3sZyFDRUM19bg5QGxtOcJHjKpyzc3xnZbBrPkxNMm-_7s3mtDYXoWq7AYo2y9GXwK_a5ayZ2BnA1DVBugrkCe7C4xM_rGnAo_fWClG_5A3FO51gBHQX1n2wUhJTUB6x9jvyITaB6pLZOQ552E--qhNNxDivDB1j=s16000"
   alt="GreenHouse">
   </a><br>
   GreenHouse Blog
   <br>
 </h1>
 
-<p align="center">GreenHouse Blog, a social blog<br>
+<p align="center">GreenHouse Blog is a social media<br>
   Android application made with Java for<br>
   posting daily college updates and gossips</p>
  
