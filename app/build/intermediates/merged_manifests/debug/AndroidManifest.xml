@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.blog01.greenhouse"
-    platformBuildVersionCode="25"
-    platformBuildVersionName="7.1.0"
     android:compileSdkVersion="29"
     android:compileSdkVersionCodename="10"
+    android:platformBuildVersionCode="25"
+    android:platformBuildVersionName="7.1.0"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -40,9 +40,9 @@
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
-        android:icon="@ac/__launcher_icon"
+        android:icon="@mipmap/ic_launcher_round"
         android:label="GreenHouse"
-        android:roundIcon="@ac/__launcher_icon"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
@@ -67,17 +67,6 @@
         <activity android:name="com.example.instagram.ClickPostActivity" />
         <activity android:name="com.example.instagram.MainActivity" />
         <activity android:name="com.example.instagram.RegisterActivity" />
-        <activity
-            android:name="com.example.instagram.LoginActivity"
-            android:icon="@ac/__launcher_icon"
-            android:label="GreenHouse"
-            android:roundIcon="@ac/__launcher_icon" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
         <activity android:name="com.example.instagram.SetupActivity" />
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
@@ -188,102 +177,6 @@
             android:authorities="com.blog01.greenhouse.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
-
-        <meta-data
-            android:name="com.applisto.appcloner.name"
-            android:value="GreenHouse" />
-        <meta-data
-            android:name="com.applisto.appcloner.originalName"
-            android:value="vag" />
-        <meta-data
-            android:name="com.applisto.appcloner.originalPackageName"
-            android:value="Y29tLmV4YW1wbGUuaW5zdGFncmFt" />
-        <meta-data
-            android:name="com.applisto.appcloner.cloneSource"
-            android:value="installed_app" />
-        <meta-data
-            android:name="com.applisto.appcloner.cloneTimestamp"
-            android:value="1592075285806" />
-        <meta-data
-            android:name="com.applisto.appcloner.cloneBuildSerial"
-            android:value="IZ6DU875GYYDV8V4" />
-        <meta-data
-            android:name="com.applisto.appcloner.cloneBuildManufacturer"
-            android:value="vivo" />
-        <meta-data
-            android:name="com.applisto.appcloner.cloneBuildModel"
-            android:value="vivo 1904" />
-        <meta-data
-            android:name="com.applisto.appcloner.clonePremiumVersion"
-            android:value="true" />
-        <meta-data
-            android:name="com.applisto.appcloner.forceDeviceLock"
-            android:value="false" />
-        <meta-data
-            android:name="com.applisto.appcloner.runtimeModdingOptions"
-            android:value="true" />
-        <meta-data
-            android:name="com.applisto.appcloner.bundleOriginalApp"
-            android:value="false" />
-        <meta-data
-            android:name="com.applisto.appcloner.versionCode"
-            android:value="1" />
-        <meta-data
-            android:name="com.applisto.appcloner.versionName"
-            android:value="1.0" />
-        <meta-data
-            android:name="com.applisto.appcloner.appClonerVersionCode"
-            android:value="19111210" />
-        <meta-data
-            android:name="com.applisto.appcloner.appClonerVersionName"
-            android:value="1.5.32" />
-        <meta-data
-            android:name="com.applisto.appcloner.appClonerClassesVersionCode"
-            android:value="20190829" />
-        <meta-data
-            android:name="com.applisto.appcloner.originalSignatures"
-            android:value="AQAAABwAAABhAG4AZAByAG8AaQBkAC4AYwBvAG4AdABlAG4AdAAuAHAAbQAuAFMAaQBnAG4AYQB0AHUAcgBlAAAAAADoAgAAMIIC5DCCAcwCAQEwDQYJKoZIhvcNAQEFBQAwNzEWMBQGA1UEAwwNQW5kcm9pZCBEZWJ1ZzEQMA4GA1UECgwHQW5kcm9pZDELMAkGA1UEBhMCVVMwIBcNMjAwNjA1MDM0MzE1WhgPMjA1MDA1MjkwMzQzMTVaMDcxFjAUBgNVBAMMDUFuZHJvaWQgRGVidWcxEDAOBgNVBAoMB0FuZHJvaWQxCzAJBgNVBAYTAlVTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAizc/8WbjC4yXTODejWmJbytV2SKNl7HdJEPQkWlglTw0JGpTc2blCsuKfzw6AoBuLqBxVyuIvOma5Ol/4jA6pp5L23kG5FTMvDjO9Co6qJBZrY+iWzaEbDYgY0zVQfOeo17vPnX3sHPUxQQy3VUVwfymvwirJObqKfjAUcEdc0FzWonE2ZpM+ZfdMiXnaCrrH2onyADg1HljCO40DEiS/kVCvruj47cV47TmpJ53Kd6dAKWMG2GQq4V0pvkr1Ek4dJjcOx+Qy7Bi69pzC7p+vrDrPDvxtC9UXEJeMSBD+zV/7Xc05/WnlcAwfh5fp4kJEdfADNE3Qh3P4NVfy82GPwIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQBEFMkuKh5XJ44hhOq8zs3YHWUMsEhm1tx1n1qfA1dGliYiPgJ/rJeKRYydgGuatW74Q/FPxY63xgH3WNaOtkhD+PHFIuI5SUX/aY3jBlS+4FmrHlsCsMgE6OA+6SczljB5H9H3TBWdXrrIKEHQB8lTywHk5aaiWxAKh3Paf8Mnvdyau/zdc68vBxWh9D3HIk2hH8Sjnwv+ECFw5IMvQV2G+apXHWa8B9M+GJjVmv/ZlIpx08gMf1kDHz/+e1VtsENI3pdfbA3cnAUBpPZGttdPBuy9oMMV7qya5utOa5E8RnnplL12CYWkrQf97kyW3AiJ8yto2R8ReEhTK+B+RUcr" />
-        <meta-data
-            android:name="com.android.vending.derived.apk.id"
-            android:value="1" />
-
-        <provider
-            android:name="com.applisto.appcloner.classes.DefaultProvider"
-            android:authorities="com.blog01.greenhouse.com.applisto.appcloner.classes.DefaultProvider"
-            android:exported="true"
-            android:initOrder="2147483647" />
-
-        <service
-            android:name="com.applisto.appcloner.service.RemoteService"
-            android:exported="true" />
-
-        <receiver
-            android:name="com.applisto.appcloner.classes.DefaultProvider.DefaultReceiver"
-            android:exported="true" />
-
-        <activity
-            android:name="com.applisto.appcloner.classes.DefaultProvider.MyActivity"
-            android:exported="true" />
-
-        <receiver android:name="com.applisto.appcloner.classes.FakeCamera.FakeCameraReceiver" >
-            <intent-filter>
-                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_SELECT_CAMERA_PICTURE" />
-                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_CLOCKWISE" />
-                <action android:name="com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_ANTI_CLOCKWISE" />
-            </intent-filter>
-        </receiver>
-        <receiver android:name="com.applisto.appcloner.classes.DisableClipboardAccess.ClearClipboardReceiver" />
-
-        <activity
-            android:name="com.applisto.appcloner.classes.FakeCamera.FakeCameraActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-
-        <meta-data
-            android:name="com.applisto.appcloner.hideFromClonedApps"
-            android:value="true" />
-        <meta-data
-            android:name="com.applisto.appcloner.ignoreUpdates"
-            android:value="true" />
     </application>
 
 </manifest>

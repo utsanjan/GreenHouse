@@ -1,607 +1,422 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-114:12
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 	package
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:70-101
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:5-36
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
+	android:platformBuildVersionCode
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:37-74
 	android:compileSdkVersionCodename
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:246-284
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:197-235
 	android:versionName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:189-214
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:140-165
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-51
 	android:compileSdkVersion
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:215-245
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:166-196
 	xmlns:android
 		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:165-188
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:116-139
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
-	platformBuildVersionName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:132-164
-	platformBuildVersionCode
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:102-131
+	android:platformBuildVersionName
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:75-115
 uses-sdk
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
-INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-73
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
+INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
 	android:targetSdkVersion
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:42-71
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:42-71
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:72-102
 	android:minSdkVersion
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:15-41
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:15-41
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-79
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:22-77
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:5-110
+	tools:ignore
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:79-107
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:5-78
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:5-78
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:5-67
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:8:22-65
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:22-65
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:9:22-79
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:22-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:5-109
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:5-109
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:10:22-107
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:22-107
 application
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:5-97:19
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:5-59:19
 	android:supportsRtl
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:190-216
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:196-222
 	android:label
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:50-76
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:50-76
 	android:appComponentFactory
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:257-325
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:269-337
 	android:debuggable
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:112-137
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:118-143
 	android:testOnly
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:138-162
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:144-168
+	tools:ignore
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:338-371
 	android:roundIcon
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:217-256
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:223-268
+	tools:targetApi
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:372-391
 	android:icon
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:77-111
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:77-117
 	android:allowBackup
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:163-189
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:169-195
 	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:11:18-49
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:18-49
 activity#com.example.instagram.UsersPostActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:9-75
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:9-75
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:12:19-73
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:19-73
 activity#com.example.instagram.MyPostsActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:9-137
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:9-137
 	android:parentActivityName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:72-135
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:13:19-71
-activity#com.example.instagram.ChatActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:9-70
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:14:19-68
-activity#com.example.instagram.FriendsActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:9-73
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:72-135
 	android:name
 		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:15:19-71
+activity#com.example.instagram.ChatActivity
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:9-70
+	android:name
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:19-68
+activity#com.example.instagram.FriendsActivity
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:9-73
+	android:name
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:19-71
 activity#com.example.instagram.PersonProfileActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:9-79
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:9-79
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:16:19-77
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:19-77
 activity#com.example.instagram.ResetPassordActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:9-142
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:9-142
 	android:parentActivityName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:77-140
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:77-140
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:17:19-76
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:19-76
 activity#com.example.instagram.CommentsActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:9-74
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:9-74
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:18:19-72
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:19-72
 activity#com.example.instagram.FindFriendsActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:9-141
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:9-141
 	android:parentActivityName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:76-139
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:76-139
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:19:19-75
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:19-75
 activity#com.example.instagram.ProfileActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:9-73
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:9-73
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:20:19-71
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:19-71
 activity#com.example.instagram.SettingsActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:9-138
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:9-138
 	android:parentActivityName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:73-136
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:73-136
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:21:19-72
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:19-72
 activity#com.example.instagram.ClickPostActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:9-75
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:9-75
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:22:19-73
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:19-73
 activity#com.example.instagram.MainActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:9-70
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:9-70
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:23:19-68
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:19-68
 activity#com.example.instagram.RegisterActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:9-74
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:26:9-74
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:24:19-72
-activity#com.example.instagram.LoginActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:9-30:20
-	android:label
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:19-45
-	android:roundIcon
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:132-171
-	android:icon
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:46-80
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:25:81-131
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:26:13-29:29
-action#android.intent.action.MAIN
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:17-68
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:17-76
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:26:19-72
 activity#com.example.instagram.SetupActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:9-71
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:9-71
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:19-69
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:27:19-69
 activity#com.theartofdev.edmodo.cropper.CropImageActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:9-128
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:9-128
 	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:19-62
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:19-62
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:63-126
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:28:63-126
 activity#com.example.instagram.PostActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:9-70
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:29:9-70
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:19-68
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:29:19-68
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:9-333
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:9-333
 	android:excludeFromRecents
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:266-299
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:266-299
 	android:launchMode
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:300-331
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:300-331
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:242-265
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:242-265
 	android:permission
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:152-241
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:152-241
 	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:19-78
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:19-78
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:79-151
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:30:79-151
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:9-43:19
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:9-39:19
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:90-114
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:90-114
 	android:directBootAware
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:115-145
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:115-145
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:18-89
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:31:18-89
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:13-184
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:13-184
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:117-182
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:117-182
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:24-116
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:32:24-116
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:13-184
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:13-184
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:117-182
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:117-182
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:24-116
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:33:24-116
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:13-182
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:13-182
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:115-180
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:115-180
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:24-114
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:34:24-114
 meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:13-190
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:13-190
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:123-188
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:123-188
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:39:24-122
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:35:24-122
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:13-214
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:13-214
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:147-212
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:147-212
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:24-146
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:36:24-146
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:13-171
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:13-171
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:104-169
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:104-169
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:24-103
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:37:24-103
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:13-202
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:13-202
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:135-200
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:135-200
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:24-134
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:38:24-134
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:9-220
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:9-220
 	android:excludeFromRecents
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:185-218
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:185-218
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:160-184
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:160-184
 	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:19-78
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:19-78
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:79-159
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:40:79-159
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:9-215
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:9-215
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:190-213
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:190-213
 	android:permission
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:95-189
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:95-189
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:18-94
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:41:18-94
 meta-data#com.google.android.gms.version
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:9-121
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:9-121
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:66-119
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:66-119
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:46:20-65
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:42:20-65
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:9-51:20
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:43:9-47:20
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:146-169
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:43:146-169
 	android:permission
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:85-145
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:43:85-145
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:47:19-84
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:43:19-84
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:13-50:29
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:44:13-46:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:17-80
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:17-80
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:25-78
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:45:25-78
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:9-172
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:9-172
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:146-170
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:146-170
 	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:19-78
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:19-78
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:79-145
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:48:79-145
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:9-199
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:9-199
 	android:authorities
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:109-173
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:109-173
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:84-108
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:84-108
 	android:initOrder
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:174-197
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:174-197
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:19-83
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:49:19-83
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:9-141
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:50:9-141
 	android:enabled
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:92-114
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:50:92-114
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:115-139
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:50:115-139
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:19-91
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:50:19-91
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:9-139
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:51:9-139
 	android:enabled
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:90-112
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:51:90-112
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:113-137
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:51:113-137
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:55:18-89
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:51:18-89
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:9-199
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:9-199
 	android:enabled
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:150-172
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:150-172
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:173-197
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:173-197
 	android:permission
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:93-149
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:93-149
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:18-92
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:52:18-92
 service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:9-59:19
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:9-55:19
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:109-133
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:109-133
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:18-108
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:53:18-108
 meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:13-123
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:13-123
 	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:102-121
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:102-121
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:24-101
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:54:24-101
 service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:9-206
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:9-206
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:180-204
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:180-204
 	android:permission
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:123-179
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:123-179
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:18-122
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:56:18-122
 receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:9-165
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:9-165
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:139-163
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:139-163
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:19-138
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:57:19-138
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:9-202
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:9-202
 	android:authorities
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:139-200
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:139-200
 	android:multiprocess
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:111-138
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:111-138
 	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:86-110
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:86-110
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:19-85
-meta-data#com.applisto.appcloner.name
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:9-91
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:63-89
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:20-62
-meta-data#com.applisto.appcloner.originalName
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:9-92
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:71-90
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:20-70
-meta-data#com.applisto.appcloner.originalPackageName
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:9-124
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:78-122
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:20-77
-meta-data#com.applisto.appcloner.cloneSource
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:9-101
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:70-99
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:20-69
-meta-data#com.applisto.appcloner.cloneTimestamp
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:9-104
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:73-102
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:20-72
-meta-data#com.applisto.appcloner.cloneBuildSerial
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:9-109
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:75-107
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:68:20-74
-meta-data#com.applisto.appcloner.cloneBuildManufacturer
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:9-103
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:81-101
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:20-80
-meta-data#com.applisto.appcloner.cloneBuildModel
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:9-101
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:74-99
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:20-73
-meta-data#com.applisto.appcloner.clonePremiumVersion
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:9-100
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:78-98
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:20-77
-meta-data#com.applisto.appcloner.forceDeviceLock
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:9-97
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:74-95
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:72:20-73
-meta-data#com.applisto.appcloner.runtimeModdingOptions
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:9-102
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:80-100
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:20-79
-meta-data#com.applisto.appcloner.bundleOriginalApp
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:9-99
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:76-97
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:20-75
-meta-data#com.applisto.appcloner.versionCode
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:9-89
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:70-87
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:20-69
-meta-data#com.applisto.appcloner.versionName
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:9-91
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:70-89
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:76:20-69
-meta-data#com.applisto.appcloner.appClonerVersionCode
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:9-105
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:79-103
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:77:20-78
-meta-data#com.applisto.appcloner.appClonerVersionName
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:9-103
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:79-101
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:78:20-78
-meta-data#com.applisto.appcloner.appClonerClassesVersionCode
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:9-112
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:86-110
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:79:20-85
-meta-data#com.applisto.appcloner.originalSignatures
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:9-1183
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:77-1181
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:80:20-76
-meta-data#com.android.vending.derived.apk.id
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:9-89
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:70-87
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:81:20-69
-provider#com.applisto.appcloner.classes.DefaultProvider
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:9-228
-	android:authorities
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:105-195
-	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:81-104
-	android:initOrder
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:196-226
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:82:19-80
-service#com.applisto.appcloner.service.RemoteService
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:9-103
-	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:78-101
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:83:18-77
-receiver#com.applisto.appcloner.classes.DefaultProvider.DefaultReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:9-122
-	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:97-120
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:84:19-96
-activity#com.applisto.appcloner.classes.DefaultProvider.MyActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:9-117
-	android:exported
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:92-115
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:85:19-91
-receiver#com.applisto.appcloner.classes.FakeCamera.FakeCameraReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:86:9-92:20
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:86:19-94
-intent-filter#action:name:com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_ANTI_CLOCKWISE+action:name:com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_CLOCKWISE+action:name:com.applisto.appcloner.action.FAKE_CAMERA_SELECT_CAMERA_PICTURE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:87:13-91:29
-action#com.applisto.appcloner.action.FAKE_CAMERA_SELECT_CAMERA_PICTURE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:88:17-105
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:88:25-103
-action#com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_CLOCKWISE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:89:17-100
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:89:25-98
-action#com.applisto.appcloner.action.FAKE_CAMERA_ROTATE_ANTI_CLOCKWISE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:90:17-105
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:90:25-103
-receiver#com.applisto.appcloner.classes.DisableClipboardAccess.ClearClipboardReceiver
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:93:9-112
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:93:19-110
-activity#com.applisto.appcloner.classes.FakeCamera.FakeCameraActivity
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:9-167
-	android:theme
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:19-89
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:94:90-165
-meta-data#com.applisto.appcloner.hideFromClonedApps
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:9-99
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:77-97
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:95:20-76
-meta-data#com.applisto.appcloner.ignoreUpdates
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:9-94
-	android:value
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:72-92
-	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:96:20-71
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:58:19-85
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:98:5-67
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:5-118
+	tools:ignore
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:66-115
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:98:22-65
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:60:22-65
 uses-permission#android.permission.FLASHLIGHT
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:99:5-68
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:5-68
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:99:22-66
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:61:22-66
 uses-permission#net.dinglisch.android.tasker.PERMISSION_RUN_TASKS
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:100:5-88
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:5-88
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:100:22-86
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:62:22-86
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:101:5-73
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:5-73
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:101:22-71
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:63:22-71
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:102:5-65
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:5-65
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:102:22-63
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:64:22-63
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:103:5-77
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:5-77
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:103:22-75
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:65:22-75
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:104:5-75
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:5-75
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:104:22-73
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:66:22-73
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:105:5-94
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:5-94
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:105:22-92
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:67:22-92
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:107:5-73
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:5-73
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:107:22-71
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:69:22-71
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:108:5-75
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:5-75
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:108:22-73
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:70:22-73
 uses-permission#android.permission.CAMERA
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:109:5-64
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:5-64
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:109:22-62
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:71:22-62
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:111:5-67
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:5-67
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:111:22-65
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:73:22-65
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:112:5-72
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:5-109
+	tools:ignore
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:71-106
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:112:22-70
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:74:22-70
 uses-permission#android.permission.READ_SETTINGS
-ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:113:5-71
+ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:5-71
 	android:name
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:113:22-69
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:75:22-69
