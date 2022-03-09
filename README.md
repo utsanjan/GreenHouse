@@ -8,7 +8,6 @@
   <br>
 </h1>
 
-
 <p align="center">GreenHouse Blog, a social blog<br>
   Android application made with Java for<br>
   posting daily college updates and gossips</p>
