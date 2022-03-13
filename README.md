@@ -11,7 +11,7 @@
 <p align="center">GreenHouse Blog is a social media<br>
   Android application made with Java for<br>
   posting daily college updates and gossips</p>
- 
+
 ## 🛠 Info & Features
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/utsanjan/GreenHouse?logoColor=red&style=plastic)](https://github.com/utsanjan/GreenHouse/blob/main/LICENSE)‎ ‎
