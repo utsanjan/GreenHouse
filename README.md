@@ -7,7 +7,7 @@
   GreenHouse Blog
   <br>
 </h1>
-
+ 
 <p align="center">GreenHouse Blog is a social media<br>
   Android application made with Java for<br>
   posting daily college updates and gossips</p>
