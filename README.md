@@ -35,9 +35,7 @@ This app is currently under<br>
 its alpha or pre release state.<br>
 **Download GreenHouse Blog:**<br><br>
 <a href="https://github.com/utsanjan/GreenHouse/releases">
-<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
-alt="Tsunami App Download"></a><br>
-
+<img src="https://bit.ly/3Ee49cs" alt="GreenHouse App Releases" width="200"></a><br>
 
 For Screenshots click
 <br>the button below 🔻
