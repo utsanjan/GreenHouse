@@ -4,40 +4,40 @@ ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManif
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
-MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/35abe7b979ac0d84ef258b0309df6625/transformed/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 	package
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:5-36
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:1-76:12
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 	android:platformBuildVersionCode
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:37-74
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:5-42
 	android:compileSdkVersionCodename
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:197-235
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:165-203
 	android:versionName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:140-165
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:108-133
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:3:5-51
 	android:compileSdkVersion
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:166-196
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:134-164
 	xmlns:android
 		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:116-139
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:84-107
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml
 	android:platformBuildVersionName
-		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:75-115
+		ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:4:43-83
 uses-sdk
 ADDED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
-MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/b8b7bd8e0bcfbc1c33d218ae4640b2d8/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/35abe7b979ac0d84ef258b0309df6625/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/utsanjan/.gradle/caches/transforms-3/35abe7b979ac0d84ef258b0309df6625/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
 INJECTED from /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/AndroidManifest.xml:5:5-105
 	android:targetSdkVersion

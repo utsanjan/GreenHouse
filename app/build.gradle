@@ -4,7 +4,6 @@ plugins {
 
 android {
     compileSdkVersion 31
-    buildToolsVersion "27.0.3"
     defaultConfig {
         applicationId 'com.blog01.greenhouse'
         minSdkVersion 17
@@ -28,6 +27,7 @@ android {
     lint {
         abortOnError false
     }
+    namespace 'com.blog01.greenhouse'
 
 }
 

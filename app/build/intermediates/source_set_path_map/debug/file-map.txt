@@ -1,0 +1,8 @@
+com.blog01.greenhouse.app-pngs-0 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/generated/res/pngs/debug
+com.blog01.greenhouse.app-resValues-1 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/generated/res/resValues/debug
+com.blog01.greenhouse.app-rs-2 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/generated/res/rs/debug
+com.blog01.greenhouse.app-mergeDebugResources-3 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.blog01.greenhouse.app-mergeDebugResources-4 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.blog01.greenhouse.app-merged_res-5 /Users/utsanjan/Documents/GitHub/GreenHouse/app/build/intermediates/merged_res/debug
+com.blog01.greenhouse.app-debug-6 /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/debug/res
+com.blog01.greenhouse.app-main-7 /Users/utsanjan/Documents/GitHub/GreenHouse/app/src/main/res
