@@ -26,18 +26,8 @@
 > <br>Incase anyone wants to use the source code
 > <br>you can clone it from the Repository itself.
 
-## 📲 Application Releases
-
-This app is currently under<br>
-its alpha or pre release state.<br>
-**Download GreenHouse Blog:**<br><br>
-<a href="https://github.com/utsanjan/GreenHouse/releases">
-<img src="https://bit.ly/3Ee49cs" alt="GreenHouse App Releases" width="200"></a><br>
-
-For Screenshots click
-<br>the button below 🔻
-
-<a href="https://www.facebook.com/photo?fbid=1198653947178402&set=pcb.1198654260511704"><img alt="Screenshots" title="Screenshots" src="https://blogger.googleusercontent.com/img/a/AVvXsEiqMedxbLXjqTLIvwF6y9LSJUvUKg2RalbgEcaULEcn7GAZRxBOE6br1OFFC2eLtMP6NmeNJ-gy9Jr7MjdQkj03WHM06o2c7JSTmyHE8ke_4XzQKMTVn27199pfRvqSzLGX_8JYPAQ7PCGt5zNYZ8BFytD66k8wjVWVl7ZFLqUGrVzAdNW27SgSNVjB=s16000" width="160"/></a>
+## 📲 Screenshots
+<img src="https://bit.ly/3DiNrcv" width=13% height=auto> <img src="https://bit.ly/3JmyQRc" width=13% height=auto> <img src="https://bit.ly/3Y1xXSk" width=13% height=auto> <img src="https://bit.ly/3WHD1u7" width=13% height=auto> <img src="https://bit.ly/3kJRhFo" width=13% height=auto> <img src="https://bit.ly/3kHDGOK" width=13% height=auto> <img src="https://bit.ly/3j5zfNl" width=13% height=auto> 
 
 ## 📞 Contacts
 
