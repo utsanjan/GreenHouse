@@ -33,4 +33,4 @@
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan) <br> 
-Contributor: [Saptarshi Samanta](https://github.com/Saptarshisamata)
+Contributor: [Saptarshi Samanta](https://github.com/saptarshi2000)
