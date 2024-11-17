@@ -7,7 +7,7 @@
  
 <p align="center">GreenHouse Blog is a social media<br>
   Android application made with Java for<br>
-  posting daily college updates and gossips</p>
+  posting daily college updates and gossip </p>
 
 ## 🛠 Info & Features
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
@@ -17,13 +17,13 @@
 * Here we can post pictures in the blog<br>
 * Users can like and comment on the posts<br>
 * Password can be reset in case you forgot it<br>
-* Used OTP verification during Signup process<br>
-* Profiles can be customised whenever needed<br>
+* Used OTP verification during signup process<br>
+* Profiles can be customized whenever needed<br>
 
 > ### Points to be noted:
-> Feel free to use this application,
-> <br>and do report me the bugs if you find one.
-> <br>Incase anyone wants to use the source code
+> Feel free to use this application, &
+> <br>report the bugs to me if you find one.
+> <br>If anyone wants to use the source code
 > <br>you can clone it from the Repository itself.
 
 ## 📲 Screenshots
