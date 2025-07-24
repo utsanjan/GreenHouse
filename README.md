@@ -11,7 +11,7 @@
 
 ## 🛠 Info & Features
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://dcbadge.vercel.app/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎‎
+[![](https://dcbadge.limes.pink/api/server/uavTPkr?style=plastic)](https://discord.gg/bvzTHWnD3n)‎ ‎‎
 [![](https://img.shields.io/github/license/utsanjan/GreenHouse?logoColor=red&style=plastic)](https://github.com/utsanjan/GreenHouse/blob/main/LICENSE)‎ ‎
 [![](https://img.shields.io/github/languages/count/utsanjan/GreenHouse?style=plastic)](https://github.com/utsanjan/GreenHouse/search?l=shell)‎ ‎
 [![](https://img.shields.io/github/languages/top/utsanjan/GreenHouse?color=light%20green&style=plastic)](https://github.com/utsanjan/GreenHouse)‎ ‎ <br>
